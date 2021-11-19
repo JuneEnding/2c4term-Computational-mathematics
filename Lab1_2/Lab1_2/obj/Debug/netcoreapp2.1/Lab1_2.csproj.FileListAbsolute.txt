@@ -1,0 +1,11 @@
+C:\Users\uyron\source\repos\Lab1_2\Lab1_2\bin\Debug\netcoreapp2.1\Lab1_2.deps.json
+C:\Users\uyron\source\repos\Lab1_2\Lab1_2\bin\Debug\netcoreapp2.1\Lab1_2.runtimeconfig.json
+C:\Users\uyron\source\repos\Lab1_2\Lab1_2\bin\Debug\netcoreapp2.1\Lab1_2.runtimeconfig.dev.json
+C:\Users\uyron\source\repos\Lab1_2\Lab1_2\bin\Debug\netcoreapp2.1\Lab1_2.dll
+C:\Users\uyron\source\repos\Lab1_2\Lab1_2\bin\Debug\netcoreapp2.1\Lab1_2.pdb
+C:\Users\uyron\source\repos\Lab1_2\Lab1_2\obj\Debug\netcoreapp2.1\Lab1_2.csprojAssemblyReference.cache
+C:\Users\uyron\source\repos\Lab1_2\Lab1_2\obj\Debug\netcoreapp2.1\Lab1_2.csproj.CoreCompileInputs.cache
+C:\Users\uyron\source\repos\Lab1_2\Lab1_2\obj\Debug\netcoreapp2.1\Lab1_2.AssemblyInfoInputs.cache
+C:\Users\uyron\source\repos\Lab1_2\Lab1_2\obj\Debug\netcoreapp2.1\Lab1_2.AssemblyInfo.cs
+C:\Users\uyron\source\repos\Lab1_2\Lab1_2\obj\Debug\netcoreapp2.1\Lab1_2.dll
+C:\Users\uyron\source\repos\Lab1_2\Lab1_2\obj\Debug\netcoreapp2.1\Lab1_2.pdb

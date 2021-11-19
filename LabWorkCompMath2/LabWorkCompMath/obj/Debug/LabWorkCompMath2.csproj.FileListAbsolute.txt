@@ -1,0 +1,10 @@
+C:\Users\uyron\source\repos\LabWorkCompMath2\LabWorkCompMath\bin\Debug\LabWorkCompMath.exe.config
+C:\Users\uyron\source\repos\LabWorkCompMath2\LabWorkCompMath\bin\Debug\LabWorkCompMath.exe
+C:\Users\uyron\source\repos\LabWorkCompMath2\LabWorkCompMath\bin\Debug\LabWorkCompMath.pdb
+C:\Users\uyron\source\repos\LabWorkCompMath2\LabWorkCompMath\obj\Debug\LabWorkCompMath2.csprojAssemblyReference.cache
+C:\Users\uyron\source\repos\LabWorkCompMath2\LabWorkCompMath\obj\Debug\LabWorkCompMath.FormLab.resources
+C:\Users\uyron\source\repos\LabWorkCompMath2\LabWorkCompMath\obj\Debug\LabWorkCompMath.Properties.Resources.resources
+C:\Users\uyron\source\repos\LabWorkCompMath2\LabWorkCompMath\obj\Debug\LabWorkCompMath2.csproj.GenerateResource.cache
+C:\Users\uyron\source\repos\LabWorkCompMath2\LabWorkCompMath\obj\Debug\LabWorkCompMath2.csproj.CoreCompileInputs.cache
+C:\Users\uyron\source\repos\LabWorkCompMath2\LabWorkCompMath\obj\Debug\LabWorkCompMath.exe
+C:\Users\uyron\source\repos\LabWorkCompMath2\LabWorkCompMath\obj\Debug\LabWorkCompMath.pdb

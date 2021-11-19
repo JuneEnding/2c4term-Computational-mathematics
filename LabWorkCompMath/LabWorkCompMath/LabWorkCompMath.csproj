@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BB413588-6E65-4FAD-A90E-BD9A98A43D77}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>LabWorkCompMath</RootNamespace>
+    <AssemblyName>LabWorkCompMath</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="GeneralLab\Array.cs" />
+    <Compile Include="GeneralLab\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GeneralLab\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lab1\Lab1_6.cs" />
+    <Compile Include="Lab2\FormLab2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lab2\FormLab2.Designer.cs">
+      <DependentUpon>FormLab2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GeneralLab\FormLab.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GeneralLab\FormLab.Designer.cs">
+      <DependentUpon>FormLab.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GeneralLab\Polynomial.cs" />
+    <Compile Include="GeneralLab\Lab.cs" />
+    <Compile Include="Lab1\Lab1_1.cs" />
+    <Compile Include="Lab1\Lab1_2.cs" />
+    <Compile Include="Lab1\Lab1_3.cs" />
+    <Compile Include="Lab1\Lab1_4.cs" />
+    <Compile Include="Lab1\Lab1_5.cs" />
+    <Compile Include="GeneralLab\Program.cs" />
+    <Compile Include="Lab2\Lab2_1.cs" />
+    <Compile Include="..\..\..\..\OneDrive\Рабочий стол\Учеба\КомпМат\Lab2_2_2.cs">
+      <Link>Lab2\Lab2_2_2.cs</Link>
+    </Compile>
+    <Compile Include="Lab2\Lab2_3_2.cs" />
+    <Compile Include="Lab2\Lab2_4_2.cs" />
+    <Compile Include="Lab2\Lab2_5_2.cs" />
+    <Compile Include="Lab2\Lab2_6_2.cs" />
+    <Compile Include="Lab3\FormLab4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lab3\FormLab4.Designer.cs">
+      <DependentUpon>FormLab4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lab3\Lab4_1.cs" />
+    <Compile Include="Lab3\Lab4_2.cs" />
+    <Compile Include="Lab3\Lab4_3.cs" />
+    <Compile Include="Lab3\Lab4_4.cs" />
+    <Compile Include="Lab3\Lab4_5.cs" />
+    <Compile Include="Lab3\Lab4_6.cs" />
+    <Compile Include="Lab4\FormLab3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lab4\FormLab3.Designer.cs">
+      <DependentUpon>FormLab3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lab4\lab3_1.cs" />
+    <Compile Include="Lab4\Lab3_2.cs" />
+    <Compile Include="Lab4\Lab3_3.cs" />
+    <Compile Include="Lab4\Lab3_4.cs" />
+    <Compile Include="Lab4\Lab3_5.cs" />
+    <Compile Include="Lab4\Lab3_6.cs" />
+    <Compile Include="Lab5\FormLab5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lab5\FormLab5.Designer.cs">
+      <DependentUpon>FormLab5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lab5\lab5_1.cs" />
+    <Compile Include="Lab5\Lab5_2.cs" />
+    <Compile Include="Lab5\Lab5_3.cs" />
+    <Compile Include="Lab5\Lab5_4.cs" />
+    <Compile Include="Lab5\Lab5_5.cs" />
+    <Compile Include="Lab5\Lab5_6.cs" />
+    <Compile Include="Lab6\FormLab6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lab6\FormLab6.Designer.cs">
+      <DependentUpon>FormLab6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lab6\lab6_1.cs" />
+    <Compile Include="Lab6\Lab6_2.cs" />
+    <Compile Include="Lab6\Lab6_3.cs" />
+    <Compile Include="Lab6\Lab6_4.cs" />
+    <Compile Include="Lab6\Lab6_5.cs" />
+    <Compile Include="Lab6\Lab6_6.cs" />
+    <Compile Include="Lab6\Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resources\Graph.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\Graph.Designer.cs">
+      <DependentUpon>Graph.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="GeneralLab\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lab2\FormLab2.resx">
+      <DependentUpon>FormLab2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GeneralLab\FormLab.resx">
+      <DependentUpon>FormLab.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lab3\FormLab4.resx">
+      <DependentUpon>FormLab4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lab4\FormLab3.resx">
+      <DependentUpon>FormLab3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lab5\FormLab5.resx">
+      <DependentUpon>FormLab5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lab6\FormLab6.resx">
+      <DependentUpon>FormLab6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="GeneralLab\App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\рамоска.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Рамка.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Рамка1.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

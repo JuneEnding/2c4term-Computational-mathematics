@@ -1,0 +1,4 @@
+C:\Users\uyron\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\LabWorkCompMath.FormLab6.resources
+C:\Users\uyron\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\uyron\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\uyron\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache

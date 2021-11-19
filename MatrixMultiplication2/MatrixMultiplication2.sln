@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MatrixMultiplication2", "MatrixMultiplication2\MatrixMultiplication2.pyproj", "{E17483A1-3EEB-41B2-AB7E-ABF016AD0C8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E17483A1-3EEB-41B2-AB7E-ABF016AD0C8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E17483A1-3EEB-41B2-AB7E-ABF016AD0C8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFEB7130-0D28-4B61-BF04-98F904AE1181}
+	EndGlobalSection
+EndGlobal

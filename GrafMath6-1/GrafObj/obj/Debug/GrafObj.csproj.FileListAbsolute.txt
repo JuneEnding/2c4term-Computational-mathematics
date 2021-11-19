@@ -1,0 +1,10 @@
+C:\Users\uyron\source\repos\GrafMath6-1\GrafObj\bin\Debug\GrafMath.exe.config
+C:\Users\uyron\source\repos\GrafMath6-1\GrafObj\bin\Debug\GrafMath.exe
+C:\Users\uyron\source\repos\GrafMath6-1\GrafObj\bin\Debug\GrafMath.pdb
+C:\Users\uyron\source\repos\GrafMath6-1\GrafObj\obj\Debug\GrafObj.Form1.resources
+C:\Users\uyron\source\repos\GrafMath6-1\GrafObj\obj\Debug\GrafMath.Properties.Resources.resources
+C:\Users\uyron\source\repos\GrafMath6-1\GrafObj\obj\Debug\GrafObj.csproj.GenerateResource.cache
+C:\Users\uyron\source\repos\GrafMath6-1\GrafObj\obj\Debug\GrafObj.csproj.CoreCompileInputs.cache
+C:\Users\uyron\source\repos\GrafMath6-1\GrafObj\obj\Debug\GrafMath.exe
+C:\Users\uyron\source\repos\GrafMath6-1\GrafObj\obj\Debug\GrafMath.pdb
+C:\Users\uyron\source\repos\GrafMath6-1\GrafObj\obj\Debug\GrafObj.csprojAssemblyReference.cache
